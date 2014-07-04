@@ -4,4 +4,8 @@ tes lagi
 
 asdasd tesbranch
 
+<<<<<<< HEAD
 tes fetch
+=======
+test fetch server
+>>>>>>> 039cf3435f33d38ffcbe30cd5673e8f6e7be3fd4
